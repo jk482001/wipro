@@ -1,6 +1,6 @@
 class first{
-  public static voiid main(string[] args){
-  System.println("hello world hello world");
+  public static void main(String[] args){
+  System.out.println("hello world hello world");
   
   }
 
